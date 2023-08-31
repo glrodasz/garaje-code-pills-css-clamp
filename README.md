@@ -1,5 +1,5 @@
-## Media Queries vs CSS Clamp
-Este proyecto hace parte del siguiente video: <link>
+## Haz tu tipografía totalmente responsive con CSS Clamp
+Este proyecto hace parte del siguiente video: https://youtu.be/3zUw8gd3e80
 
 ## Lista de mis otros Garaje Code Pills
 https://youtube.com/playlist?list=PLKBvDYynKmlWPWyoTOizls8nui87vlBXg
